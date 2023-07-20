@@ -8,7 +8,7 @@ This is a solution to the [Launch countdown timer challenge on Frontend Mentor](
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-  - [My process](#my-process)
+  - [Running the project](#running-the-project)
   - [Built with](#built-with)
   - [Author](#author)
 
@@ -28,10 +28,21 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [github]()
-- Live Site URL: [live site]()
+- Solution URL: [github](https://github.com/Vyktuur/frontend-launch-countdown-timer/tree/main)
 
-## My process
+### Running the project
+
+1. Clone this repository in your computer.
+
+2. Open a terminal in the root directory of the project.
+
+3. Execute the following comand to install the dependencies of the project:
+
+        npm install
+
+4. After installation, execute this comand to inicialize the app:
+
+        npm start
 
 ### Built with
 
@@ -42,4 +53,7 @@ Users should be able to:
 
 ## Author
 
-- Website - []()
+Victor Henrique Reis
+- [Github](https://github.com/Vyktuur)
+- [Instagram](https://www.instagram.com/vhenriquereis/)
+- [LinkedIn](https://www.linkedin.com/in/devictorreis/)
