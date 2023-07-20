@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/frontend-launch-countdown-timer/static/css/main.bab7b5b4.css",
+    "main.js": "/frontend-launch-countdown-timer/static/js/main.b4ada7b9.js",
+    "static/js/787.32086ac8.chunk.js": "/frontend-launch-countdown-timer/static/js/787.32086ac8.chunk.js",
+    "static/media/20230623_114023-removebg-preview.png": "/frontend-launch-countdown-timer/static/media/20230623_114023-removebg-preview.f709f77d1496f7c18fec.png",
+    "static/media/bg-stars.svg": "/frontend-launch-countdown-timer/static/media/bg-stars.166881a1c03d6b1239f5.svg",
+    "index.html": "/frontend-launch-countdown-timer/index.html",
+    "static/media/pattern-hills.svg": "/frontend-launch-countdown-timer/static/media/pattern-hills.815d688fd937623063b5.svg",
+    "main.bab7b5b4.css.map": "/frontend-launch-countdown-timer/static/css/main.bab7b5b4.css.map",
+    "main.b4ada7b9.js.map": "/frontend-launch-countdown-timer/static/js/main.b4ada7b9.js.map",
+    "787.32086ac8.chunk.js.map": "/frontend-launch-countdown-timer/static/js/787.32086ac8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bab7b5b4.css",
+    "static/js/main.b4ada7b9.js"
+  ]
+}
